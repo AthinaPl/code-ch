@@ -1,4 +1,4 @@
-### Coding Challenge: Multi-layer product
+# Coding Challenge: Multi-layer product
 
 Purpose of this challenge is to design a multi-layer product that requires the following components:
 
